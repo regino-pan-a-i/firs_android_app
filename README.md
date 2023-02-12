@@ -5,9 +5,8 @@ As an initial approach of programming for Andriod devices I spent time learning 
 My app uses interaction between android app elements and Java commands to display messages to the screen, auto increment the value shown on the screen and display the new one, and finally link to a random number in a new screen.
 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/leuwZPnD1Q0)
 
 # Development Environment
 
